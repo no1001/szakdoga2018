@@ -1,0 +1,22 @@
+{
+  "background_color": "orange",
+  "name": "Faust Étterem és Kávézó",
+  "short_name": "Faust C&R",
+  "description": " A Faust Étterem és kávézó hivatalos app-ja",
+  "lang": "hu-HU",
+  "display": "standalone",
+  "icons": [
+  {
+    "src": "/logo-16.png",
+    "sizes": "16x16",
+    "type": "image/png"
+  },
+  {
+    "src": "/logo-32.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }
+  ],
+  
+  "theme_color": "orange"
+}
